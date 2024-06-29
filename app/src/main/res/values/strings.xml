@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chit Chat</string>
+    <string name="welcome_back">Welcome to ChitChat</string>
+    <string name="login">Please sign in to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="add_image">Choose image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in2">Sign in</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="online">Online</string>
+</resources>
